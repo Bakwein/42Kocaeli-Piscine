@@ -1,0 +1,5 @@
+Credentials cache: API:48F317DD-A2CD-4988-A65B-8A5D7818F1F6
+        Principal: stunca@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 24 09:54:19 2021  Nov 24 19:54:19 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR

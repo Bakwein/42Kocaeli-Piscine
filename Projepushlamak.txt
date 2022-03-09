@@ -1,0 +1,14 @@
+Merhaba eğer projenizde her şeyi kavradığınızdan TAMAMEN eminseniz aşağıdaki yollarla yollacağınız dosyanın içine girerek projenizi pushlayabilirsiniz.
+
+dosyaismi -> burayaistediğiniz şeyi girebilirsiniz. ama yazdığım yerlere yanlış olmadan doğru şekilde aynı şeyi yazmalısınız.
+gitrepolinki -> intra'daki pushlamanıza yarayan adres.
+
+
+git init
+git add .
+git commit -m "dosyaismi"
+git remote add "dosyaismi" gitrepolinki
+git push --set-upstream dosyaismi master
+
+Değerlendirmeye gittinizde ise projeyi çekmek için(Bulunduğunuz konuma dosyaismi adında klasörü çeker);
+git clone gitrepolinki dosyaismi 
